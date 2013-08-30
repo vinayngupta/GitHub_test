@@ -1,1 +1,7 @@
 Explain what the "upstream" remote is usually used for, in your own words:
+
+This is a reference to a read-only origin of another GitHub user from which you are trying to pull data. Typically you would have forked this person's project and need to periodically 
+
+git pull master upstream
+
+in order to have the latest changes, if any.
