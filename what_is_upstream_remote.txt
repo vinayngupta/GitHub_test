@@ -1,3 +1,1 @@
-upstream remote
-
-This is a reference to a read-only origin of another GitHub user from which you are trying to pull data.
+Explain what the "upstream" remote is usually used for, in your own words:

@@ -1,9 +1,1 @@
-branch
-
-This is a list of changes that enables you to create a parallel universe for your code.
-This is useful for experiments. You can merge your branch into the master if you are happy
-with your new universe or kill it if the experiment fails.
-
-You create a branch by typing:
-
-git checkout -b 'branch name' 
+Explain what a branch is, in your own words:

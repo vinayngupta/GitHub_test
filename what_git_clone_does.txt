@@ -1,8 +1,2 @@
-git clone
- 
-This enables you to copy a repository of files from GitHub to your local machine.
-From the command line you type 
+Explain what git clone does, in your own words:
 
-git clone 'SSH clone URL'
-
-from the command line. 
